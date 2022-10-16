@@ -1,0 +1,2 @@
+# qon-analiz
+qon rasmlari
